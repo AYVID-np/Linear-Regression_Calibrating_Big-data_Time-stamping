@@ -1,4 +1,4 @@
-# Linear-Regression_Calibrating_Time-stamped_Big-data
+# Linear-Regression_Calibrating_Big-data_Time-stamping
 Calibrating the experimentally derived "big data"  to generate a "time-stamped" dataset employing "linear Regression Fit" on 792 degrees of freedom.
 
 -> The following script is written in C using CERN ROOT libraries.
